@@ -1,2 +1,2 @@
 # model-structures-GSet
-Some code to accompany "Pre-model Structures on the Category of $C_p$-Sets"
+The code accompanying "Pre-model Structures on the Category of $C_p$-Sets" -- see [compute_lattice.ipynb](/compute_lattice.ipynb)
